@@ -162,11 +162,10 @@ $(document).ready( function() {
 		// get the value of the tags the user submitted
 		var tags = $(this).find("input[name='tags']").val();
 		getTop(tags);	
-<<<<<<< HEAD
+
 	});
-=======
+
 });
->>>>>>> master
-});
-		
+
+	
 
